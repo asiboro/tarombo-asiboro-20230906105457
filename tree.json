@@ -17,6 +17,11 @@
       "id": "F1*53367ac6-6817-4897-86a9-d67793d1c1d4"
     },
     {
+      "childRefs": [
+        {
+          "ref": "I5*691e8cb2-79e5-4c4a-b19c-0695129b32ec"
+        }
+      ],
       "husbandRefs": [
         {
           "ref": "I3*cc440db3-df1a-4a97-9f5f-da15001bbb90"
@@ -123,6 +128,25 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F2*34780b21-c1f4-4b6b-8876-246b00a1dc97"
+        }
+      ],
+      "id": "I5*691e8cb2-79e5-4c4a-b19c-0695129b32ec",
+      "names": [
+        {
+          "value": "grandchild 1 //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
