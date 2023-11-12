@@ -43,15 +43,15 @@
       "time": "10:54:00",
       "value": "6 SEP 2023"
     },
-    "file": "15.json",
+    "file": "1.json",
     "gedc": {
       "form": "LINEAGE-LINKED",
       "vers": "5.5.1"
     },
-    "lang": "English",
+    "lang": "Japanese",
     "sour": {
       "name": "Tarombo",
-      "value": "TAROMBO",
+      "value": "FAMILY_GEM",
       "vers": "0.3.3 (1b54672)"
     }
   },
